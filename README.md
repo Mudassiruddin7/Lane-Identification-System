@@ -1,4 +1,4 @@
-![Person](https://upload.wikimedia.org/wikipedia/commons/9/90/Mask_On_Face_Detection.gif)
+![Person](https://i.pinimg.com/originals/20/44/ef/2044ef3bdeb4ef7489201e6b51e8dbd5.gif)
 
 # _**Identifying The Lane,The Vehicle Is Travelling**_
 Lane detection is a very vast area to work on, since a lot of efforts are being put on to avoid even minute error and making a safe self-driving environment sustainable and efficient. So, there are a lot of methods where we can implement this lane detection while driving, one method we have used is through OpenCV where using its in built functions such as Sobel operator, perspective transformation and edge detection we have done rather a basic lane detection model, which identifies the lane the vehicle is travelling.
